@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sene sonuna zenginiz inşeAllah
+Let my mind be a stochastic process. Then the system has a diagonal covariance matrix.
 
 <!--
 **zekicanozkanli/zekicanozkanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
