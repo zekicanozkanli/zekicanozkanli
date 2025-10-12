@@ -1,7 +1,7 @@
 <!-- Quantum Gif -->
 
 <div align="center">
-  <img src="gif/giffy.gif" alt="quantum gif" width="850">
+  <img src="gif/giffy.gif" alt="quantum gif" width="820">
 </div>
 
 
