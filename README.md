@@ -1,8 +1,9 @@
-<!-- Photo -->
+<!-- Quantum Gif -->
 
 <div align="center">
-  <img height="200" src="https://rafael-fuente.github.io/images/incoherent-double-slit-simulations/simulation-incoherent-picoseconds.gif"/>
+  <img src="gif/giffy.gif" alt="quantum gif" width="850">
 </div>
+
 
 
 <!-- Snake -->
