@@ -1,7 +1,7 @@
 <!-- Photo -->
 
 <div align="center">
-  <img height="480" src="https://images.alphacoders.com/716/thumb-1920-716252.jpg"  />
+  <img height="200" src="https://rafael-fuente.github.io/images/incoherent-double-slit-simulations/simulation-incoherent-picoseconds.gif"/>
 </div>
 
 
