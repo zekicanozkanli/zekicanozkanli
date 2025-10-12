@@ -15,3 +15,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/zekicanozkanli/zekicanozkanli/output/snake.svg" alt="Snake animation" />
+
+###
