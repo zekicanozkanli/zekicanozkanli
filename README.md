@@ -3,5 +3,6 @@
 </div>
 
 <div align="center">
+
   ![snake gif](https://github.com/zekicanozkanli/zekicanozkanli/blob/output/github-snake.svg)
 </div>
