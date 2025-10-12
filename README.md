@@ -1,7 +1,7 @@
 <!-- Photo -->
 
 <div align="center">
-  <img height="1000" src="https://images.alphacoders.com/716/thumb-1920-716252.jpg"  />
+  <img height="480" src="https://images.alphacoders.com/716/thumb-1920-716252.jpg"  />
 </div>
 
 
