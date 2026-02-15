@@ -1,6 +1,6 @@
 <!-- Quantum Gif -->
 
-[![yin-and-yang](yin_and_yang/yin_and_yang_3.gif)](https://yourname.github.io/yourname)
+[![yin-and-yang](yin_and_yang/yin_and_yang_4.gif)](https://yourname.github.io/yourname)
 
 
 <!-- Snake -->
