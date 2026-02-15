@@ -1,11 +1,3 @@
-<!-- Quantum Gif -->
+<!-- Yin and Yang Gif -->
 
 [![yin-and-yang](yin_and_yang/yin_and_yang.gif)](https://yourname.github.io/yourname)
-
-
-<!-- Snake -->
-
-<div align="center">
-
-  ![snake gif](https://github.com/zekicanozkanli/zekicanozkanli/blob/output/github-snake.svg)
-</div>
