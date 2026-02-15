@@ -1,9 +1,6 @@
 <!-- Quantum Gif -->
 
-<div align="center">
-  <img src="gif/giffy.gif" alt="quantum gif" width="820">
-</div>
-
+[![yin-and-yang](yin_and_yang.gif)](https://yourname.github.io/yourname)
 
 
 <!-- Snake -->
